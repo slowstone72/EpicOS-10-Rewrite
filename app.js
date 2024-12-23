@@ -1,11 +1,11 @@
 /*
-	"EpicOS 10 (unfinished rewrite)"
-	app.js
-	2020.07.22
+   	"EpicOS 10 (unfinished rewrite)"
+   	app.js
+   	2020.07.22
 
-	Callum Fisher <cf.fisher.bham@gmail.com>
+   	Callum Fisher <cf.fisher.bham@gmail.com>
 
-	This is free and unencumbered software released into the public domain.
+   	This is free and unencumbered software released into the public domain.
 
     Anyone is free to copy, modify, publish, use, compile, sell, or
     distribute this software, either in source code form or as a compiled
